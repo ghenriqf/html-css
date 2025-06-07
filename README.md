@@ -1,6 +1,6 @@
 # Curso de HTML e CSS - Curso em Vídeo
 
-Este repositório foi criado para guardar os exercícios e projetos que estou fazendo no curso de HTML e CSS do [Curso em Vídeo](https://www.cursoemvideo.com/), com o professor Gustavo Guanabara.
+Este repositório foi criado para guardar os exercícios e projetos que estou fazendo no curso de HTML e CSS do Curso em Vídeo, com o professor Gustavo Guanabara.
 
 ## O que estou aprendendo:
 
