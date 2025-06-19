@@ -14,3 +14,15 @@ p {
     text-align: center;
     color: white;
 }
+
+div {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.thumbs {
+    width: 300px;
+}
