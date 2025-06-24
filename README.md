@@ -1,6 +1,6 @@
 # Projeto Android
 
-Este é um projeto desenvolvido durante o curso de **HTML5 e CSS3** do canal [Curso em Vídeo](https://www.youtube.com/@CursoemVideo), ministrado pelo professor Gustavo Guanabara. O objetivo foi praticar os conceitos aprendidos construindo uma página web responsiva e semântica sobre a história do mascote do sistema Android.
+Este é um projeto desenvolvido durante o curso de **HTML5 e CSS3** do canal [Curso em Vídeo](https://www.youtube.com/CursoemVideo), ministrado pelo professor Gustavo Guanabara. O objetivo foi praticar os conceitos aprendidos construindo uma página web responsiva e semântica sobre a história do mascote do sistema Android.
 
 ---
 
