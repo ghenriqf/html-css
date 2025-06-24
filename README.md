@@ -53,5 +53,5 @@ Documentar e praticar todos os aprendizados adquiridos ao longo do curso, desenv
 
 ## Créditos
 
-Curso desenvolvido por [Gustavo Guanabara](https://github.com/gustavoguanabara) no canal [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+Curso desenvolvido por [Gustavo Guanabara](https://github.com/gustavoguanabara) no canal [Curso em Vídeo](https://www.youtube.com/CursoemVideo).
 
