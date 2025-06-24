@@ -19,8 +19,8 @@ O curso aborda os fundamentos do desenvolvimento web utilizando as linguagens HT
 │   ├── ex002/
 │   └── ...
 ├── 📂 desafios/
-│   ├── desafio01/
-│   ├── desafio02/
+│   ├── d001/
+│   ├── d002/
 │   └── ...
 └── README.md
 ```
