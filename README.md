@@ -10,7 +10,7 @@ O curso aborda os fundamentos do desenvolvimento web utilizando as linguagens HT
 
 ---
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 📁 html-css/
