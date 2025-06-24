@@ -1,43 +1,57 @@
-# Projeto Android
+# Curso de HTML5 e CSS3 – Curso em Vídeo
 
-Este é um projeto desenvolvido durante o curso de **HTML5 e CSS3** do canal [Curso em Vídeo](https://www.youtube.com/CursoemVideo), ministrado pelo professor Gustavo Guanabara. O objetivo foi praticar os conceitos aprendidos construindo uma página web responsiva e semântica sobre a história do mascote do sistema Android.
-
----
-
-## Conteúdo abordado
-
-Neste projeto, foram utilizados os seguintes conceitos:
-
-- Estrutura básica HTML
-- Tags semânticas (`<header>`, `<main>`, `<section>`, `<article>`, `<footer>`, etc.)
-- Estilização com CSS
-- Importação de fontes do Google Fonts
-- Utilização de imagens e vídeos
-- Responsividade básica
-- Criação de um layout simples, limpo e funcional
+Este repositório contém todos os exercícios e desafios propostos durante o curso de **HTML5 e CSS3** do canal [Curso em Vídeo](https://www.youtube.com/CursoemVideo), ministrado pelo professor Gustavo Guanabara.
 
 ---
 
-##  Prints do projeto
+## Sobre o curso
 
-### Página inicial
-
-![Print 1](print1.png)
+O curso aborda os fundamentos do desenvolvimento web utilizando as linguagens HTML e CSS. Os conteúdos são apresentados de forma prática e didática, com muitos exercícios e desafios ao longo das aulas.
 
 ---
 
-### Conteúdo sobre o mascote
+## 📁 Estrutura do repositório
 
-![Print 2](print2.png)
+```
+📁 curso-html-css/
+├── 📂 exercicios/
+│   ├── ex001/
+│   ├── ex002/
+│   └── ...
+├── 📂 desafios/
+│   ├── desafio01/
+│   ├── desafio02/
+│   └── ...
+└── README.md
+```
+
+- A pasta `exercicios` contém os códigos feitos durante as aulas.
+- A pasta `desafios` contém os projetos práticos propostos ao final de alguns módulos.
 
 ---
 
-### Versões do Android
+## Tecnologias utilizadas
 
-![Print 3](print3.png)
+- HTML5
+- CSS3
+
+---
+
+## Progresso
+
+- Acompanhando todas as aulas  
+- Realizando todos os exercícios  
+- Cumprindo todos os desafios  
+
+---
+
+## Objetivo
+
+Documentar e praticar todos os aprendizados adquiridos ao longo do curso, desenvolvendo uma base sólida em HTML e CSS.
 
 ---
 
 ## Créditos
 
-Projeto realizado durante as aulas do [Curso em Vídeo](https://www.cursoemvideo.com/), com orientação de **Gustavo Guanabara**.
+Curso desenvolvido por [Gustavo Guanabara](https://github.com/gustavoguanabara) no canal [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+
