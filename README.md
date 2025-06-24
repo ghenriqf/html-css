@@ -13,7 +13,7 @@ O curso aborda os fundamentos do desenvolvimento web utilizando as linguagens HT
 ## 📁 Estrutura do repositório
 
 ```
-📁 curso-html-css/
+📁 html-css/
 ├── 📂 exercicios/
 │   ├── ex001/
 │   ├── ex002/
